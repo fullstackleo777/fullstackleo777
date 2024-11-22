@@ -18,10 +18,10 @@ leo@fullstackleo.net
 
 ## FullStack Skills
 
-**Deployment:** Linux Servers, AWS, GSC, Azure
+**Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure
 
-**Back End:** Linux Programming, SSH, Node.js, PHP, Python
+**Back End:** Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python
 
-**Front End:** XML, HTML, CSS/SCSS, Javascript, Organic SEO
+**Front End:** XML, HTML, CSS/SCSS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
 
-**Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL
+**Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
