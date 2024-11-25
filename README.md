@@ -40,3 +40,9 @@ leo@fullstackleo.net
 **eCommerce Platforms:** WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
 
 **Dev Tooling**: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Agile, Scrum, Vim, Nano, DIFF, Chrome DevTools
+
+## Languages
+
+**Español** Native
+
+**English** Native
