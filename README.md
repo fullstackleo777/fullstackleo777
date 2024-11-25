@@ -19,7 +19,6 @@ leo@fullstackleo.net
 **Reddit:** @fullstackleo777
 
 ## FullStack Skills
-*IMPORTANT: This is a short list of the FullStack Skills I'm most comfortable working with.
 
 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
 
