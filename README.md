@@ -1,6 +1,10 @@
+![FullStackLeo](https://fullstackleo.net/images/Full-Stack-Leo.png)
+
 # FullStackLeo
 
 Full Stack Mobile & Web Developer
+
+_**Available Remotely!**_
 
 ## Contact
 
@@ -17,15 +21,15 @@ leo@fullstackleo.net
 **Reddit:** @fullstackleo777
 
 ## FullStack Skills
-*IMPORTANT: This is a reduced list of all FullStack Skills I have acquired over the last 15 years of my career and actively maintain!*
+*IMPORTANT: This is a short list of the FullStack Skills I'm most comfortable working with.
 
 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
+
+**Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
 **Back End:** Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python, REST API, Auth0
 
 **Front End:** XML, HTML, CSS/SCSS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
-
-**Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
 **Open Source Software:** Server (Apache, NGINX, Lighttpd, ffmpeg), Productivity (OpenOffice, LibreOffice)
 
@@ -39,7 +43,9 @@ leo@fullstackleo.net
 
 **eCommerce Platforms:** WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
 
-**Dev Tooling**: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Agile, Scrum, Vim, Nano, DIFF, Chrome DevTools
+**Dev Tooling**: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
+
+**Project Management:** Agile, Scrum, Lean, BPM
 
 ## Languages
 
