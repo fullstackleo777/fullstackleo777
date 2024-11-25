@@ -2,7 +2,9 @@
 
 Full Stack Mobile & Web Developer
 
-_**Available Remotely!**_
+🇲🇽🇺🇲
+
+_**🏆 Available Remotely!**_
 
 ## Contact
 
@@ -20,7 +22,7 @@ leo@fullstackleo.net
 
 ## FullStack Skills
 
-**Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
+🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
 
 **Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
@@ -32,9 +34,9 @@ leo@fullstackleo.net
 
 **Creative Software:** Adobe (Photoshop, Illustrator, InDesign, Premiere Pro), Open Source (Inkscape, Gimp)
 
-**Server Security:** Firewalled, SSL/TLS, Fail2Ban, SSH Keys, Argon2, IP White/Blacklisting
+🔐 **Server Security:** Firewalled, SSL/TLS, Fail2Ban, SSH Keys, Argon2, IP White/Blacklisting
 
-**DNS Security:** DNSSEC, DDOS Protection, Secure Cache, DNS Proxy, DNS Firewall
+🔑 **DNS Security:** DNSSEC, DDOS Protection, Secure Cache, DNS Proxy, DNS Firewall
 
 **Contenet Management Systems:** HubSpot, Wordpress, Wix, Squarespace, Drupal
 
@@ -46,6 +48,6 @@ leo@fullstackleo.net
 
 ## Languages
 
-**Español** Native
+🇲🇽 **Español** Native
 
-**English** Native
+🇺🇸 **English** Native
