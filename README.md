@@ -1,5 +1,3 @@
-![FullStackLeo](https://fullstackleo.net/images/Full-Stack-Leo.png)
-
 # FullStackLeo
 
 Full Stack Mobile & Web Developer
