@@ -4,11 +4,13 @@ Full Stack Mobile & Web Developer
 
 _**🏆 Available Remotely!**_
 
+
 ## Contact
 
 leo@fullstackleo.net
 
 +1 737 377 4837
+
 
 ## Portfolios
 
@@ -18,11 +20,13 @@ leo@fullstackleo.net
 
 **GitHub:** https://github.com/fullstackleo777
 
+
 ## Social
 
 **X:** @xfullstackleo
 
 **Reddit:** @fullstackleo777
+
 
 ## FullStack Skills
 
@@ -49,6 +53,7 @@ leo@fullstackleo.net
 🛠️ **Dev Tooling**: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
 
 👨‍💼 **Project Management:** Agile, Scrum, Lean, BPM
+
 
 ## Languages
 
