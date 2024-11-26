@@ -6,11 +6,17 @@ _**🏆 Available Remotely!**_
 
 ## Contact
 
-https://fullstackleo.net
-
 leo@fullstackleo.net
 
 +1 737 377 4837
+
+## Portfolios
+
+**FullStack Developer:** https://fullstackleo.net
+
+**Web Development, Graphic Design, and Writing:** https://idealeo.net
+
+**GitHub:** https://github.com/fullstackleo777
 
 ## Social
 
