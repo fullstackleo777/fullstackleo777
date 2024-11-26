@@ -40,7 +40,7 @@ Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 🔑 **DNS Security:** DNSSEC, DDOS Protection, Secure Cache, DNS Proxy, DNS Firewall
 
-🖱️ **Contenet Management Systems:** HubSpot, Wordpress, Wix, Squarespace, Drupal
+🖱️ **Content Management Systems:** HubSpot, Wordpress, Wix, Squarespace, Drupal
 
 💰 **eCommerce Platforms:** WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
 
