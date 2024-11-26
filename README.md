@@ -52,6 +52,6 @@ leo@fullstackleo.net
 
 ## Languages
 
-🇲🇽 **Español** Native
+🇲🇽 **Español** Nativo
 
 🇺🇸 **English** Native
