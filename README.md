@@ -51,6 +51,4 @@ Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 ## Languages
 
-🇲🇽 **Español** Nativo
-
-🇺🇸 **English** Native
+🇲🇽 **Español** Nativo | 🇺🇸 **English** Native
