@@ -1,6 +1,6 @@
 # 🇲🇽 🇺🇲 FullStackLeo
 
-Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
+Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 
 ## Contact
