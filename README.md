@@ -5,7 +5,7 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 ## Contact
 
-✉️ leo@fullstackleo.net | 📱 +1 737 377 4837
+✉️ leo@fullstackleo.net | 📱 +1 512 312 8481
 
 
 ## Portfolios
