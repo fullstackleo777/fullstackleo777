@@ -52,3 +52,5 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 ## Languages
 
 🇲🇽 **Español** Nativo | 🇺🇸 **English** Native
+
+### PS: Remote Full Stack Mobile & Web Developer with extensive experience in full stack development, business management, and creative direction | _**🏆 Available Remotely!**_
