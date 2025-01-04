@@ -14,12 +14,12 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 **Web Development, Graphic Design, and Writing:** https://idealeo.net
 
-**GitHub:** https://github.com/changosocial
+**GitHub:** https://github.com/fullstackleo777
 
 
 ## Social
 
-**X:** @xfullstackleo | **Reddit:** @fullstackleo777
+**X:** @xfullstackleo | **Reddit:** @changosocial
 
 
 ## FullStack Skills
