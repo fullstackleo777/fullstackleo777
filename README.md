@@ -5,12 +5,12 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 ## Contact
 
-✉️ leo@fullstackleo.net | 📱 +1 512 312 8481
+✉️ leo@fullstackleo.net | 📱 [512 312 8481](tel:+15123128481)
 
 
 ## Portfolios
 
-**FullStack Developer:** https://fullstackleo.net
+**Full Stack Developer:** https://fullstackleo.net
 
 **Web Development, Graphic Design, and Writing:** https://idealeo.net
 
@@ -19,7 +19,7 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 ## Social
 
-**X:** @xfullstackleo | **Reddit:** https://reddit.com/u/changosocial | ** Linktree:** https://linktr.ee/fullstackleo
+**X:** https://x.com/xfullstackleo | **Reddit:** https://reddit.com/u/changosocial | ** Linktree:** https://linktr.ee/fullstackleo
 
 
 ## FullStack Skills
