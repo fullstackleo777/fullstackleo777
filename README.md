@@ -19,7 +19,7 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 ## Social
 
-**X:** @xfullstackleo | **Reddit:** @changosocial
+**X:** @xfullstackleo | **Reddit:** https://reddit.com/u/changosocial | ** Linktree:** https://linktr.ee/fullstackleo
 
 
 ## FullStack Skills
