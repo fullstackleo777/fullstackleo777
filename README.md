@@ -1,30 +1,34 @@
-# 🇲🇽 🇺🇲 FullStackLeo
+# Leonardo Rodriguez
+# _**Remote Full Stack Mobile & Web Developer**_
 
-Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
+## Contact Info
 
+**Email:** leo@fullstackleo.net
 
-## Contact
+**Mobile Phone:** +1 512 312 8481
 
-✉️ leo@fullstackleo.net | 📱 [512 312 8481](tel:+15123128481)
+**Location:** Eagle Pass, Texas, USA
 
+## Summary
+
+I'm a high-energy and knowledge thirsty _**Remote Full Stack Mobile & Web Developer**_ with 15 years of experience in fullstack development, business management, and creative direction. I excel in HTML, CSS, Javascript, PHP, Python, Frontend, Backend, Deployment, Linux, Server Security, Wordpress, HubSpot, Photoshop, Illustrator, and more!
+
+I speak native English and Spanish. 🇲🇽 🇺🇲
+
+What are you waiting for? Start executing your full stack mobile and web projects today!
 
 ## Portfolios
 
-**Full Stack Developer:** https://fullstackleo.net
+**Full Stack Dev:** https://fullstackleo.net
 
-**Web Development, Graphic Design, and Writing:** https://idealeo.net
+**Web Dev, Design, Writing:** https://idealeo.net
 
 **GitHub:** https://github.com/fullstackleo777
 
 
-## Social
+## Skills
 
-**X:** https://x.com/xfullstackleo | **Reddit:** https://reddit.com/u/changosocial | **Linktree:** https://linktr.ee/fullstackleo
-
-
-## FullStack Skills
-
-🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
+🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CD
 
 🗄️ **Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
@@ -44,13 +48,36 @@ Remote Full Stack Mobile & Web Developer | _**🏆 Available Remotely!**_
 
 💰 **eCommerce Platforms:** WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
 
-🛠️ **Dev Tooling**: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
+🛠️ **Dev Tooling:** GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
 
 👨‍💼 **Project Management:** Agile, Scrum, Lean, BPM
 
+## Socials
 
-## Languages
+**GitHub**
+https://github.com/fullstackleo777
 
-🇲🇽 **Español** Nativo | 🇺🇸 **English** Native
+**LinkedIn**
+http://www.linkedin.com/in/fullstackleo
 
-### PS: Remote Full Stack Mobile & Web Developer with extensive experience in full stack development, business management, and creative direction | _**🏆 Available Remotely!**_
+**Facebook**
+https://facebook.com/fullstackleo
+
+**X**
+https://x.com/xfullstackleo
+
+**Reddit**
+https://reddit.com/u/changosocial
+
+**Snapchat**
+https://www.snapchat.com/add/changosocial
+
+**SimpleX Chat**
+https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fhv1weAhYRlYVP7qQOAoLZmuu6dc0BSDZ%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEANbvECI1SfuDGYxXwAIcr8e5ncUe6Gzd1ThUr1RlcCzw%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion
+http://www.youtube.com/@fullstackleo
+
+**YouTube**
+https://youtube.com/@fullstackleo
+
+**Linktree**
+https://linktr.ee/fullstackleo
