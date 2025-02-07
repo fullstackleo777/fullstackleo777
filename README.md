@@ -58,7 +58,7 @@ What are you waiting for? Start executing your full stack mobile and web project
 https://github.com/fullstackleo777
 
 **LinkedIn**
-http://www.linkedin.com/in/fullstackleo
+https://www.linkedin.com/in/fullstackleo
 
 **Facebook**
 https://facebook.com/fullstackleo
