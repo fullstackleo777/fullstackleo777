@@ -79,7 +79,7 @@ https://gravatar.com/fullstackleo777
 https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fhv1weAhYRlYVP7qQOAoLZmuu6dc0BSDZ%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEANbvECI1SfuDGYxXwAIcr8e5ncUe6Gzd1ThUr1RlcCzw%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion
 
 **Skype**
-[live:.cid.8dab62d664bdb0d8](live:.cid.8dab62d664bdb0d8)
+live:.cid.8dab62d664bdb0d8
 
 **YouTube**
 https://youtube.com/@fullstackleo
