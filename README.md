@@ -1,7 +1,7 @@
 ![FullStackLeo777 Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/fullstackleo777/cover_fullstackleo777.png)
 
-# Leonardo Rodriguez
-# _**Remote Full Stack Mobile & Web Developer**_
+# _**Leonardo Rodriguez**_
+## _**Remote Full Stack Mobile & Web Developer**_
 
 ## Contact Info
 
